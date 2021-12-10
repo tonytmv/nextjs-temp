@@ -6,6 +6,7 @@
     height="100%"
 />
 
+Demo App Available @https://nextjs-temp-ruddy.vercel.app/
 This project is powered by [Chat Engine](https://chatengine.io).
 
 ## Tutorial Setup
